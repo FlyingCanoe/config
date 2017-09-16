@@ -1,0 +1,74 @@
+"TestItems"
+{
+	"Item0"
+	{
+		"item_type"		"0"
+		"test_existing_item"		"1"
+		"attach_to_hands"		"1"
+		"model_player_per_class"
+		{
+		}
+		"visuals"
+		{
+			"player_bodygroups"
+			{
+				"hat"		"1"
+				"headphones"		"1"
+				"medal"		"1"
+				"grenades"		"1"
+				"bullets"		"1"
+				"arrows"		"1"
+				"rightarm"		"1"
+				"shoes_socks"		"1"
+			}
+		}
+		"paintcan_index"		"0"
+		"unusual_index"		"0"
+		"existing_itemdef"		"1071"
+		"item_replace"		"1071"
+	}
+	"item1"
+	{
+		"item_type"		"1"
+		"test_existing_item"		"1"
+		"attach_to_hands"		"0"
+		"model_player_per_class"
+		{
+			"scout"		"models/player/items/Scout/Scout_ttg_max.mdl"
+			"sniper"		"models/player/items/Sniper/Sniper_ttg_max.mdl"
+			"soldier"		"models/player/items/Soldier/Soldier_ttg_max.mdl"
+			"Demoman"		"models/player/items/demo/demo_ttg_max.mdl"
+			"medic"		"models/player/items/Medic/Medic_ttg_max.mdl"
+			"heavy"		"models/player/items/Heavy/Heavy_ttg_max.mdl"
+			"pyro"		"models/player/items/Pyro/Pyro_ttg_max.mdl"
+			"spy"		"models/player/items/Spy/Spy_ttg_max.mdl"
+			"engineer"		"models/player/items/Engineer/Engineer_ttg_max.mdl"
+		}
+		"visuals"
+		{
+			"player_bodygroups"
+			{
+				"hat"		"0"
+				"headphones"		"1"
+				"medal"		"1"
+				"grenades"		"1"
+				"bullets"		"1"
+				"arrows"		"1"
+				"rightarm"		"1"
+				"shoes_socks"		"1"
+			}
+		}
+		"paintcan_index"		"5053"
+		"unusual_index"		"3010"
+		"existing_itemdef"		"162"
+		"item_replace"		"162"
+	}
+	"class_usage"		"1"
+	"auto_add_bots"		"1"
+	"bots_on_blue_team"		"0"
+	"bot_force_fire"		"0"
+	"bot_view_scan"		"0"
+	"bot_turntable"		"0"
+	"bot_anim"		"0"
+	"bot_animspeed"		"100"
+}
